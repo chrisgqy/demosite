@@ -4,7 +4,7 @@ project:
 
 
 website:
-  title: "."
+  title: "Quarto Website Practice"
   navbar:
     left:
       - href: index.qmd
