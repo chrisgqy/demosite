@@ -5,3 +5,5 @@ title: "Chris's Webpage"
 This is a Quarto website just created by Chris!
 
 ...who is going to take a so-called-quiz-but-actually-a-midterm-exam tomorrow :(
+
+...also who the heck decided it is okay to have midterms and lectures and homework due simultaneasly in ONE WEEK

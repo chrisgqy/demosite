@@ -5,3 +5,5 @@ title: "Personal Achievement"
 I have successfully created a quarto file!
 
 Also managed to struggle extra for DSCI 521!
+
+Also Struggling with continuous PDF from DSCI 551!
